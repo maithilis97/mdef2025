@@ -1,4 +1,4 @@
-# maithili - Fab Academy documentation
+# maithili - MDEF documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
