@@ -1,2 +1,0 @@
-# Design Studio 01
-
