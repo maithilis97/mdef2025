@@ -22,3 +22,13 @@ description: >-
 
 
 <figure><img src="../../.gitbook/assets/Design Space (1).jpg" alt=""><figcaption><p>Design Space Development </p></figcaption></figure>
+
+
+
+**Reflection**&#x20;
+
+My thoughts and learnings about the studio so far!&#x20;
+
+
+
+{% file src="../../.gitbook/assets/Design Studio Reflection 01.m4a" %}
