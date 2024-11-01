@@ -99,31 +99,35 @@ In the second week, the second part of the seminar started where we hacked some 
 
 <figure><img src="../../.gitbook/assets/unnamed (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-2. The prototyping
+2. <mark style="color:blue;">Prototyping</mark>
 
 Once we had the components in place, the first task was getting the sensor connected to the cartridge track so it could get activated if there was an obstable. We used a relay to control the direction of the movement. With Guillem's help, we were able to get the relay connected between the track and the sensor. We then used Arduino to program the system to respond at the appropriate time&#x20;
 
-
-
 {% embed url="https://youtube.com/shorts/X4WqkE4u3Rg?feature=shared" fullWidth="false" %}
 
-
-
-
-
-
+Secondly prototype was about programming the track to travel a specified distance once activated. This ensure that once the question was detected by the sensor, a pointer attached to the track would be able to answer. The code initially seemed complex, since we wanted to achieve randomised outputs to the machine would not have a bias. The machine would be able to decide the answer once activated.&#x20;
 
 {% embed url="https://youtube.com/shorts/Cub6igk9_iQ?feature=shared" %}
 
 
 
+3. <mark style="color:blue;">The Body</mark>&#x20;
+
+In order to complete the mysticism theatric, the body of the machine was designed accordingly. We used lasercut plywood and spray painted it black to give it the 'look'. Carlos insisted on having some details that would complete the aesthetic, he made sure to lasercut some detailed mysterious symbols that could add some occult element to our machine&#x20;
 
 
 
+<figure><img src="../../.gitbook/assets/DSC03105.JPG" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
+We complied all of the process information in a presentation below :&#x20;
 
+{% embed url="https://docs.google.com/presentation/d/1znGQJKeXsu82Vz1mGrn3he2hF7Mzu8QksB6_r9KHS6w/edit#slide=id.g5a4996349bc15cbc_33" %}
+
+<mark style="color:blue;">**Reflections and Learnings**</mark>
+
+This exercise turned out to be way more informative than I initially expected. Personally, this exercise broke the 'black box' idea of machines and made them approachable. I understood the possibilities of repurposing components of unused machines and how this can impact the way we imagine our electronic future to be. I also didn't realize how complex these simple systems are and how much planning, coordination and efforts go into making really simple things work. This exercise made me realise the potential of programming in building systems and I think it would be nice to apply this to some future prototypes I make.&#x20;
 
 
 
