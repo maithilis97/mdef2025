@@ -3,6 +3,8 @@ description: >-
   A week-long exercise which aimed at defining our design workspace - starting
   with the physical and tending towards conceptual/ideological space that
   together becomes our practice.
+cover: ../../.gitbook/assets/IMG_5337.jpg
+coverY: 0
 ---
 
 # Design Studio&#x20;
