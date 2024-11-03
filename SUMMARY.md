@@ -5,7 +5,7 @@
 * [Terms](terms/README.md)
   * [Term 1](terms/term-1/README.md)
     * [Landing Week](terms/term-1/landing-week.md)
-    * [Design Studio ](terms/term-1/design-studio/README.md)
+    * [Design Studio ](terms/term-1/design-studio.md)
       * [Design Intervention](terms/term-1/design-studio/design-intervention.md)
     * [Documenting Design](terms/term-1/documenting-design.md)
     * [Machine Paradox](terms/term-1/machine-paradox.md)
