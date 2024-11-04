@@ -27,7 +27,7 @@ coverY: 0
 
 
 
-**Reflection**&#x20;
+### **Reflection 01**&#x20;
 
 My thoughts and learnings about the studio so far!&#x20;
 
@@ -63,5 +63,9 @@ Making this quick prototype was an interesting way to visualize initial ideas wh
 
 
 
+### Reflection 02&#x20;
 
+The past two weeks have been very intense with [Machine Paradox](machine-paradox.md) and [Living you your own ideas](living-with-your-own-ideas.md), I did feel like I couldn't update the design space much. Having said that, I did add an important reference which gave direction to my design intervention.&#x20;
+
+{% file src="../../.gitbook/assets/Design Studio Reflection 02.m4a" %}
 
