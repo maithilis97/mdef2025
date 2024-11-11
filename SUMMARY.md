@@ -6,6 +6,7 @@
   * [Term 1](terms/term-1/README.md)
     * [Landing Week](terms/term-1/landing-week.md)
     * [Design Studio ](terms/term-1/design-studio.md)
+      * [Atlas of Weak Signals](terms/term-1/design-studio/atlas-of-weak-signals.md)
       * [Design Intervention](terms/term-1/design-studio/design-intervention.md)
     * [Machine Paradox](terms/term-1/machine-paradox.md)
     * [Living with your own ideas](terms/term-1/living-with-your-own-ideas.md)

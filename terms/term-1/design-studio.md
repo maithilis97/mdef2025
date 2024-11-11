@@ -1,15 +1,16 @@
 ---
 description: >-
-  A week-long exercise which aimed at defining our design workspace - starting
+  An ongoing exercise which aimed at defining our design workspace - starting
   with the physical and tending towards conceptual/ideological space that
   together becomes our practice.
+icon: scribble
 cover: ../../.gitbook/assets/IMG_5337.jpg
 coverY: 0
 ---
 
 # Design Studio&#x20;
 
-
+Faculty : Guillem Campradon, Laura Benitez, Saul Baeza, Roger Guilemany, Jana Tothill
 
 ***
 
@@ -68,4 +69,18 @@ Making this quick prototype was an interesting way to visualize initial ideas wh
 The past two weeks have been very intense with [Machine Paradox](machine-paradox.md) and [Living you your own ideas](living-with-your-own-ideas.md), I did feel like I couldn't update the design space much. Having said that, I did add an important reference which gave direction to my design intervention.&#x20;
 
 {% file src="../../.gitbook/assets/Design Studio Reflection 02.m4a" %}
+
+***
+
+## Collective Design Space
+
+
+
+<figure><img src="../../.gitbook/assets/IMG_6124.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+<figure><img src="../../.gitbook/assets/IMG_6127 (1).jpg" alt=""><figcaption></figcaption></figure>
 
