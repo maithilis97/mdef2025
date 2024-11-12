@@ -1,13 +1,17 @@
 ---
+icon: lightbulb-on
 description: >-
   This week, we explored the idea of prostheses and its interpretations. With
   readings from some interesting authors, we were able to define the protheses
   for ourselves based on different prompts.
-icon: lightbulb-on
 coverY: 0
 ---
 
 # Living with your own ideas
+
+Faculty : Saul Baeza
+
+***
 
 ## Day 1 : Becoming the best version of myself
 

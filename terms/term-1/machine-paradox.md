@@ -1,11 +1,13 @@
 ---
+icon: viruses
 description: >-
   An intense seminar where we engaged with machines, disassembled them, and
   hacked them to make an almost useful machine, all under two weeks!
-icon: viruses
 ---
 
 # Machine Paradox
+
+Faculty : Guillem Campradon, Santi Funtemilla, Josep, Adai&#x20;
 
 ***
 

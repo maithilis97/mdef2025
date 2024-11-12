@@ -1,8 +1,8 @@
 ---
-description: >-
-  This archive is a documentation of my journey through MDEF, where I share
-  processes and projects of this year
 icon: house-chimney-user
+description: >-
+  This archive is a documentation of my journey through MDEF, where I explore,
+  try and share processes and projects through the year!
 coverY: 0
 layout:
   cover:
