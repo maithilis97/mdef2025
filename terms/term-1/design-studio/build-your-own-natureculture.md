@@ -33,7 +33,13 @@ Collective Intervention : Build your own natureculture
 
 ## Process&#x20;
 
-The process with brainstorming about how our potential areas of interest overlap. As a group, we were interested in exploring&#x20;
+The process with brainstorming about how our potential areas of interest overlap. As a group, we were interested in exploring natureculture, heritage and symbiosis. Understanding these concepts not only in our context but also as a collective. After much brainstorming, we designed an interactive game that people can play to design their version of an ideal future culture. With some initial inputs from our side as options to choose from, every person who played the game would have to add something to the mix, making it a growing archive. The initial inputs included rituals, practices, building techniques and tools from different parts of the world with a strong natural and cultural ties with respective contexts.&#x20;
+
+The intention behind designing the game v &#x20;
+
+
+
+
 
 
 
