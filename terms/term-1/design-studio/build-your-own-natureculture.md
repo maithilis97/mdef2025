@@ -81,5 +81,7 @@ The triangular cards include details about vernacular practices, rituals, buildi
 
 
 
+<figure><img src="../../../.gitbook/assets/WhatsApp Image 2024-11-17 at 19.42.50_ef881720.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 
 

@@ -3,6 +3,22 @@ icon: viruses
 description: >-
   An intense seminar where we engaged with machines, disassembled them, and
   hacked them to make an almost useful machine, all under two weeks!
+cover: ../../.gitbook/assets/Parts.jpg
+coverY: 193.06666666666666
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Machine Paradox
@@ -11,11 +27,7 @@ Faculty : Guillem Campradon, Santi Funtemilla, Josep, Adai&#x20;
 
 ***
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/giphy.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/giphy.gif" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="color:blue;">**The Machine : Epson Printer**</mark>&#x20;
 
@@ -40,15 +52,7 @@ Next step was taking the printer apart. Since it was in a good condition, removi
 
 While doing so , we understood the complexity of the assembly for a simple consumer machine like the printer. The way all of its components interlock with each other with only a few screws indicated that the machine was highly unrepairable and it was designed to be so.&#x20;
 
-<div>
-
-<figure><img src="../../.gitbook/assets/IMG_5618.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/IMG_5591.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/IMG_5618.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_5591.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
@@ -58,15 +62,7 @@ Making a list of some part which i found really interesting
 
 A flexible pipe connected to the ink cartridge that wraps around a wheel. This component is a part of the cleaning system, used when the cleaning command is activated. Leftover ink in the cartridge is deposited in a small tank under it, the peristatic pump using a squeezing motion pulls the ink from the tank and drains it into another component. This small pipe is the crux of the entire cleaning system and applies simple physics to a complex system of mechanisms.&#x20;
 
-<div>
-
-<figure><img src="../../.gitbook/assets/PXL_20241016_163645145.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/IMG_5595 (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/PXL_20241016_163645145.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_5595 (1).jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 2. Ink Depositor&#x20;
 

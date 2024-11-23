@@ -15,7 +15,7 @@
     * [Agriculture Zero](terms/term-1/agriculture-zero.md)
     * [Design with Others](terms/term-1/design-with-others.md)
     * [Digital Fabrication](terms/term-1/digital-fabrication.md)
-    * [Extended Intelligence](terms/term-1/extended-intelligence.md)
+    * [Extended Intelligences](terms/term-1/extended-intelligences.md)
   * [Term 2](terms/term-2.md)
   * [Term 3](terms/term-3.md)
 * [Final Project](final-project.md)

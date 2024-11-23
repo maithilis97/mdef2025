@@ -21,8 +21,8 @@ coverY: 0
 [living-with-your-own-ideas.md](living-with-your-own-ideas.md)
 {% endcontent-ref %}
 
-{% content-ref url="extended-intelligence.md" %}
-[extended-intelligence.md](extended-intelligence.md)
+{% content-ref url="extended-intelligences.md" %}
+[extended-intelligences.md](extended-intelligences.md)
 {% endcontent-ref %}
 
 
