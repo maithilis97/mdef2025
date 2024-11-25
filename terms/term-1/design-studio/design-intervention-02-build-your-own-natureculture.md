@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Build your own Natureculture?
+# Design Intervention 02 - Build your own Natureculture?
 
 Group : Carlos, Kevin, Paula, Maithili
 
@@ -51,28 +51,6 @@ The triangular cards include details about vernacular practices, rituals, buildi
 
 
 
-### The Intention&#x20;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -81,7 +59,7 @@ The triangular cards include details about vernacular practices, rituals, buildi
 
 
 
-<figure><img src="../../../.gitbook/assets/WhatsApp Image 2024-11-17 at 19.42.50_ef881720.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/WhatsApp Image 2024-11-17 at 19.42.50_ef881720.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
