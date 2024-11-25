@@ -8,7 +8,7 @@ coverY: 193.06666666666666
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

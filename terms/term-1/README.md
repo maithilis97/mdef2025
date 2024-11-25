@@ -1,6 +1,7 @@
 ---
 icon: tally-4
-coverY: 0
+cover: ../../.gitbook/assets/IMG_6127 (1).jpg
+coverY: -48
 ---
 
 # Term 1

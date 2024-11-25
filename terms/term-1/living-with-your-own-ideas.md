@@ -4,7 +4,8 @@ description: >-
   This week, we explored the idea of prostheses and its interpretations. With
   readings from some interesting authors, we were able to define the protheses
   for ourselves based on different prompts.
-coverY: 0
+cover: ../../.gitbook/assets/IMG_5899.jpg
+coverY: -109
 ---
 
 # Living with your own ideas
@@ -29,15 +30,7 @@ But, you now have your binocular glasses and things start to change. You can now
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-02 at 18.10.01_47a58471.jpg" alt="" width="375"><figcaption><p>Binocular Glasses </p></figcaption></figure>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-02 at 17.42.07_a9f620a8.jpg" alt="" width="375"><figcaption><p>Front Elevation</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-02 at 17.42.24_32105cd8.jpg" alt="" width="375"><figcaption><p>Side Elevation</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-02 at 17.42.07_a9f620a8.jpg" alt="" width="375"><figcaption><p>Front Elevation</p></figcaption></figure> <figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-02 at 17.42.24_32105cd8.jpg" alt="" width="375"><figcaption><p>Side Elevation</p></figcaption></figure></div>
 
 Its interesting to think how our daily prosthesis have the potential to be so much more. Reimagining our daily use case could extend our abilities as humans. I believe becoming the best version of myself would be using my weakness as an opportunity to explore things that could potentially become my strengths.&#x20;
 
@@ -59,15 +52,7 @@ The prosthesis is a second skin which can be worn as a sleeve. The sleeve would 
 
 Reflecting on my own transition from India to Barcelona a month back, the process of getting acquainted will a completely new set of people is nerve wracking. It takes time to for people to move past the ice breaking stage and form meaningful friendships. I would like to believe that having this prosthesis would have eased the transition.   &#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-03 at 13.28.51_efb891e9.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-03 at 13.28.51_9fd67f91.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-03 at 13.28.51_efb891e9.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-03 at 13.28.51_9fd67f91.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 This is imagined as a prototype but could also come in different versions, some more discreet than others.&#x20;
 
@@ -85,15 +70,7 @@ While being the subject, we were asked to introspect and design a prosthetic tha
 
 
 
-<div>
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-04 at 01.54.02_1eee9408.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-04 at 01.54.02_f4d96ab7.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-04 at 01.54.02_1eee9408.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-04 at 01.54.02_f4d96ab7.jpg" alt=""><figcaption></figcaption></figure></div>
 
 
 
