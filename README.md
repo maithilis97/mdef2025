@@ -1,13 +1,10 @@
 ---
 icon: house-chimney-user
 description: >-
-  This archive is a documentation of my journey through MDEF, where I explore,
-  try and share processes and projects through the year!
-coverY: 0
+  This is an archive of my journey through MDEF, where I explore concepts,
+  things, materials & technologies through the year! I hope to discover paths
+  that would lead me places I aspire to be :)
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -22,7 +19,10 @@ layout:
 
 # Home
 
-{% hint style="success" %}
+{% hint style="info" %}
 Follow along to see cool things!&#x20;
 {% endhint %}
 
+
+
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">

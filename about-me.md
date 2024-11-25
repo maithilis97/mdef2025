@@ -1,6 +1,7 @@
 ---
 icon: fingerprint
-coverY: 0
+cover: .gitbook/assets/WhatsApp Image 2024-11-11 at 21.06.14_c5fa7dc9 (1).jpg
+coverY: -43
 ---
 
 # About me
@@ -31,7 +32,9 @@ Another project, that's very close to my heart is a mural project I worked on fo
 
 <figure><img src=".gitbook/assets/short wall SCALED.jpg" alt=""><figcaption></figcaption></figure>
 
-This project made me realise the importance of two things – contributing to a cause that makes the world a slightly better place and the potential of collaboration. Though the scale and scope of this project was different from the work that I have done in my practice, it allowed me to experience the collective energy that I am now actively seeking in all my projects. And this collaboration is what lead me to choosing MDEF!
+This project made me realise the importance of two things – contributing to a cause that makes the world a slightly better place and the potential of collaboration. Though the scale and scope of this project was different from the work that I have done in my practice, it allowed me to experience the collective energy that I am now actively seeking in all my projects.&#x20;
+
+<mark style="color:yellow;">**And this collaboration is what lead me to choose MDEF!**</mark>
 
 <div><figure><img src=".gitbook/assets/IMG_2647.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_2652.jpg" alt=""><figcaption></figcaption></figure></div>
 
