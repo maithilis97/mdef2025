@@ -25,4 +25,35 @@ Follow along to see cool things!&#x20;
 
 
 
+{% content-ref url="about-me.md" %}
+[about-me.md](about-me.md)
+{% endcontent-ref %}
+
+{% content-ref url="terms/term-1/" %}
+[term-1](terms/term-1/)
+{% endcontent-ref %}
+
+{% content-ref url="terms/term-2.md" %}
+[term-2.md](terms/term-2.md)
+{% endcontent-ref %}
+
+{% content-ref url="terms/term-3.md" %}
+[term-3.md](terms/term-3.md)
+{% endcontent-ref %}
+
+
+
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
+
+
+
+
+
+
+
+
+
+
+
+

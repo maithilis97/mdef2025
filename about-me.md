@@ -12,9 +12,11 @@ I am from Mumbai, India and that's where I have spent most of my life. Though I 
 
 On a personal front, I love to draw, listen to music (a sucker for Indian classical music), travel and drink tea. I have a _Visharad_ degree in an Indian classical dance form called _Bharatnatyam._ One day, I would love to have my own farm with rescue animals and a nice little farmhouse!
 
-<div><figure><img src=".gitbook/assets/IMG_9887 (4).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_2444 (4).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-So far, I have had the privilege of rescuing and fostering animals, and I think that has contributed significantly in my aspirations, not only personally but also professionally.
+
+<div><figure><img src=".gitbook/assets/unnamed (5) (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_9887 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_2444 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+
+So far, I have had the privilege of rescuing and fostering animals, and I think that has contributed significantly in my aspirations, not only personally but also professionally. Sharing some pictures of some of my cuties!
 
 <div><figure><img src=".gitbook/assets/71D36023-A96C-4E50-8E64-5D9F93ECE000 (1).JPEG" alt=""><figcaption><p>Shifu</p></figcaption></figure> <figure><img src=".gitbook/assets/IMG_8257 (1).jpg" alt=""><figcaption><p>Limlet</p></figcaption></figure> <figure><img src=".gitbook/assets/B33F7D04-5F60-4982-A1D5-98DA3374E769 (1).JPEG" alt=""><figcaption><p>Rolly and Polly</p></figcaption></figure></div>
 

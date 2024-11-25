@@ -16,6 +16,8 @@
     * [Design with Others](terms/term-1/design-with-others.md)
     * [Digital Fabrication](terms/term-1/digital-fabrication.md)
     * [Extended Intelligences](terms/term-1/extended-intelligences.md)
+    * [Documenting Design](terms/term-1/documenting-design.md)
+    * [Digital Fabrication](terms/term-1/digital-fabrication-1.md)
   * [Term 2](terms/term-2.md)
   * [Term 3](terms/term-3.md)
 * [Final Project](final-project.md)
