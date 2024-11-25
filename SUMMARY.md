@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [About](about.md)
+* [About me](about-me.md)
 * [Terms](terms/README.md)
   * [Term 1](terms/term-1/README.md)
     * [Landing Week](terms/term-1/landing-week.md)
