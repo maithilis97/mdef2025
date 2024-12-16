@@ -10,7 +10,6 @@
       * [Design Intervention 01](terms/term-1/design-studio/design-intervention-01.md)
       * [Collection Design Intervention 01 - Build your own Natureculture?](terms/term-1/design-studio/collection-design-intervention-01-build-your-own-natureculture.md)
       * [Collective Design Intervention 02](terms/term-1/design-studio/collective-design-intervention-02.md)
-    * [Page](terms/term-1/page.md)
     * [Machine Paradox](terms/term-1/machine-paradox.md)
     * [Living with your own ideas](terms/term-1/living-with-your-own-ideas.md)
     * [Biology Zero](terms/term-1/biology-zero.md)
