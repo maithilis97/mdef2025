@@ -45,8 +45,7 @@ As a second step, we tried to simplify the idea the and get similar feedback by 
 
 We had to now improvise! We decided it would be insightful to have an intimate group discussion about people and their relationships to objects. We invited people from different programs at IAAC and asked them to draw the objects that were valuable to them on a paper. The activity was intended to be an icebreaker and it worked quite well. People drew objects that were really close to them, shared stories about them, why they were valuable amongst other things. The exercise was to understand why people value the things that they do. From the conversations that came up, most people had memories associated to the objects- memories of their childhood, their parents, grandparents, things that were not only nostalgic but also sentimental.&#x20;
 
-
-
-
+It was an insightful experiment but in retrospect, the question that we asked directed people to think only in terms of owned objects. Had we reframed the question to be more open ended,  maybe we could have gotten some more communal objects or maybe not...
 
 <figure><img src="../../../.gitbook/assets/IMG_6679.jpg" alt=""><figcaption></figcaption></figure>
+

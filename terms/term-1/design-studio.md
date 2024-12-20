@@ -1,9 +1,9 @@
 ---
+icon: scribble
 description: >-
   An ongoing exercise which aimed at defining our design workspace - starting
   with the physical and tending towards conceptual/ideological space that
   together becomes our practice.
-icon: scribble
 cover: ../../.gitbook/assets/IMG_5337.jpg
 coverY: 0
 ---
@@ -16,13 +16,15 @@ Faculty : Guillem Campradon, Laura Benitez, Saul Baeza, Roger Guilemany, Jana To
 
 
 
+
+
+### Design Space 01
+
 <figure><img src="../../.gitbook/assets/Mind map.jpg" alt=""><figcaption><p>Design Space : Initial Exploration</p></figcaption></figure>
 
 
 
-
-
-
+### Design Space 02
 
 <figure><img src="../../.gitbook/assets/Design Space (1).jpg" alt=""><figcaption><p>Design Space Development </p></figcaption></figure>
 
@@ -52,15 +54,7 @@ Making this quick prototype was an interesting way to visualize initial ideas wh
 
 
 
-<div>
-
-<figure><img src="../../.gitbook/assets/ezgif.com-speed (1).gif" alt="" width="300"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/IMG_5753-ezgif.com-video-to-gif-converter.gif" alt="" width="300"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/ezgif.com-speed (1).gif" alt="" width="300"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_5753-ezgif.com-video-to-gif-converter.gif" alt="" width="300"><figcaption></figcaption></figure></div>
 
 
 
@@ -83,4 +77,22 @@ The past two weeks have been very intense with [Machine Paradox](machine-paradox
 
 
 <figure><img src="../../.gitbook/assets/IMG_6127 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-11-17 at 20.19.18_3f13a178.jpg" alt=""><figcaption></figcaption></figure>
+
+### Design Space 03
+
+
+
+<figure><img src="../../.gitbook/assets/Design Space (4).jpg" alt=""><figcaption></figcaption></figure>
+
+### Design Space 04
+
+
+
+<figure><img src="../../.gitbook/assets/Design Space (5).jpg" alt=""><figcaption></figcaption></figure>
+
+
 
