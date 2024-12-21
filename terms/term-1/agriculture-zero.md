@@ -37,6 +37,10 @@ Once we went to Valldaura, we learnt about the way they grow their crops, the pe
 
 <div><figure><img src="../../.gitbook/assets/WhatsApp Image 2024-12-21 at 15.45.49_911598d2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/WhatsApp Image 2024-12-21 at 15.45.49_ecf1d929.jpg" alt=""><figcaption></figcaption></figure></div>
 
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-12-21 at 15.45.49_65d3e982.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 
 
 
