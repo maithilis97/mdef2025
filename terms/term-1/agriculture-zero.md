@@ -45,9 +45,7 @@ Once we went to Valldaura, we learnt about the way they grow their crops, the pe
 
 
 
-## Assignment : Propose a farm
-
-## Hack-ing Farm-ing
+## Assignment : Hack-ing Farm-ing
 
 
 
