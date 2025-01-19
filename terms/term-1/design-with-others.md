@@ -1,9 +1,9 @@
 ---
+icon: people-group
 description: >-
   This week was about interacting with people whose practices are refreshingly
   different from what I had ever seen before. It was a week where a lot of my
   fundamental beliefs were questioned.
-icon: people-group
 ---
 
 # Design with Others
@@ -48,4 +48,18 @@ We then did a group exercise, where we used this framework to address an issue t
 
 
 ## &#x20;Day 2 : Eemeemee
+
+On the next day, the morning started with a lecture from Laura about identities and the interplay of identity and otherness. We discussed about what it means to impose identities depending on the context, which most of the times reinforces societal hierarchies. We analyzed how intersecting systems of discrimination—such as gender, class, and race—shape experiences, while queer theory challenged rigid identity categories. Paul Preciado’s _Countersexual Manifesto_ called for redefining identity beyond societal constraints, emphasizing that the key question is not who we are, but how we can achieve freedom
+
+In the second half, we had the opportunity to visit L'Hospitalet de Llobregat to interact with the collective Eemeemee. There, we met Óscar Martín and Marzia Matarese, who presented some of their current projects. Marzia discussed her work with fungi and her efforts to align her life and design practice with her values, seeking to engage with mycelium as a collaborator rather than merely a material or tool. Oscar's work with slime molds demonstrated their capacity to create complex systems and solve problems, offering inspiration for bio-inspired design.&#x20;
+
+
+
+<div><figure><img src="../../.gitbook/assets/IMG_6386 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_6391 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_6394 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+## Day 3 : Mutan Monkey&#x20;
+
+The day started with a nice long metro ride to Horta, a lovely quaint neighbourhood. We visited Mutan Monkey,  and interacted with members of a non profit who organise music events.&#x20;
 
