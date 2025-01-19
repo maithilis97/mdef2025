@@ -73,7 +73,7 @@ It was very inspiring to hear about their experiences and I am sure its going to
 
 
 
-## Day 4 : Arnua Sala
+## Day 4 : Arnau Sala
 
 
 
