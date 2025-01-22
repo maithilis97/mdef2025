@@ -10,8 +10,8 @@ coverY: -48
 [landing-week.md](landing-week.md)
 {% endcontent-ref %}
 
-{% content-ref url="design-studio.md" %}
-[design-studio.md](design-studio.md)
+{% content-ref url="design-studio-01/" %}
+[design-studio-01](design-studio-01/)
 {% endcontent-ref %}
 
 {% content-ref url="machine-paradox.md" %}
@@ -26,9 +26,15 @@ coverY: -48
 [extended-intelligences.md](extended-intelligences.md)
 {% endcontent-ref %}
 
+{% content-ref url="biology-zero.md" %}
+[biology-zero.md](biology-zero.md)
+{% endcontent-ref %}
 
+{% content-ref url="agriculture-zero.md" %}
+[agriculture-zero.md](agriculture-zero.md)
+{% endcontent-ref %}
 
-
-
-
+{% content-ref url="design-with-others.md" %}
+[design-with-others.md](design-with-others.md)
+{% endcontent-ref %}
 
