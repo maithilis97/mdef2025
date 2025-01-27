@@ -21,5 +21,6 @@
   * [Term 2](terms/term-2/README.md)
     * [Design Studio 02](terms/term-2/design-studio-02.md)
     * [Situated Design Practices](terms/term-2/situated-design-practices.md)
+    * [Communicating Ideas](terms/term-2/communicating-ideas.md)
   * [Term 3](terms/term-3.md)
 * [Final Project](final-project.md)
