@@ -22,5 +22,6 @@
     * [Design Studio 02](terms/term-2/design-studio-02.md)
     * [Situated Design Practices](terms/term-2/situated-design-practices.md)
     * [Communicating Ideas](terms/term-2/communicating-ideas.md)
+    * [Collective Intelligence](terms/term-2/collective-intelligence.md)
   * [Term 3](terms/term-3.md)
 * [Final Project](final-project.md)
