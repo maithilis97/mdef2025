@@ -23,5 +23,6 @@
     * [Situated Design Practices](terms/term-2/situated-design-practices.md)
     * [Communicating Ideas](terms/term-2/communicating-ideas.md)
     * [Collective Intelligence](terms/term-2/collective-intelligence.md)
+    * [Living Materials](terms/term-2/living-materials.md)
   * [Term 3](terms/term-3.md)
 * [Final Project](final-project.md)
