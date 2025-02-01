@@ -1,5 +1,6 @@
 ---
 description: 'Faculty : Pablo Zuloaga Betancourt'
+icon: lightbulb-message
 ---
 
 # Communicating Ideas

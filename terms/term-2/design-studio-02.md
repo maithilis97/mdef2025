@@ -2,6 +2,7 @@
 description: >-
   Continuation of Design Studio 01, but with a more focused approach about our
   research.
+icon: scribble
 ---
 
 # Design Studio 02

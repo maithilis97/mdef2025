@@ -2,6 +2,7 @@
 description: >-
   A three day workshop about exploring our own values, the idea of commons and
   the values that we share as a community.
+icon: people-roof
 ---
 
 # Collective Intelligence
