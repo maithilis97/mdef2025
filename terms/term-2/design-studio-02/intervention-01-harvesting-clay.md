@@ -8,7 +8,7 @@ Another sub intention was to ground myself in the context of Barcelona, which I 
 
 1. Parc del Guinardo&#x20;
 2. Parc de la Collserola
-3. El Part de Llobregat&#x20;
+3. El Prat de Llobregat&#x20;
 
 Each place has a distinct landscape, with completely different conditions, so the possibilities of finding variations was higher. I collected one sample from Guinardo, four from Collserola and one from El Prat.&#x20;
 
