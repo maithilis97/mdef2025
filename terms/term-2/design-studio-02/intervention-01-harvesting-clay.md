@@ -30,7 +30,7 @@ After getting the samples, the next step is to process it. Using a method called
 
 
 
-<figure><img src="../../../.gitbook/assets/9.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/9.JPG" alt=""><figcaption><p>Clay will settle down, after which the drying process can start</p></figcaption></figure>
 
 
 
