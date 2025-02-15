@@ -21,6 +21,7 @@
   * [Term 2](terms/term-2/README.md)
     * [Design Studio 02](terms/term-2/design-studio-02.md)
       * [Intervention 01 : Harvesting Clay](terms/term-2/design-studio-02/intervention-01-harvesting-clay.md)
+      * [Intervention 02 : Experimentation with clay](terms/term-2/design-studio-02/intervention-02-experimentation-with-clay.md)
     * [Situated Design Practices](terms/term-2/situated-design-practices.md)
     * [Communicating Ideas](terms/term-2/communicating-ideas.md)
     * [Collective Intelligence](terms/term-2/collective-intelligence.md)
