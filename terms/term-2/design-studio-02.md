@@ -1,8 +1,8 @@
 ---
+icon: scribble
 description: >-
   Continuation of Design Studio 01, but with a more focused approach about our
   research.
-icon: scribble
 ---
 
 # Design Studio 02
@@ -20,4 +20,14 @@ Faculty : Guillem Campradon, Laura Benitez, Saul Baeza, Roger Guilemany, Jana To
 
 
 {% file src="../../.gitbook/assets/Design Studio Term 2 - Reflection 01.m4a" %}
+
+
+
+<figure><img src="../../.gitbook/assets/Design Space.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
 
