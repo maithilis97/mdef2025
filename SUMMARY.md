@@ -28,5 +28,6 @@
     * [Collective Intelligence](terms/term-2/collective-intelligence.md)
     * [Living Materials](terms/term-2/living-materials.md)
     * [Micro Challenge 01](terms/term-2/micro-challenge-01.md)
+    * [Extended Intelligences II](terms/term-2/extended-intelligences-ii.md)
   * [Term 3](terms/term-3.md)
 * [Final Project](final-project.md)

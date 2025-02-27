@@ -1,6 +1,6 @@
 ---
-description: A week long workshop focused on collaboration, ideation and prototyping
 icon: screwdriver-wrench
+description: A week long workshop focused on collaboration, ideation and prototyping
 layout:
   title:
     visible: true
@@ -171,5 +171,5 @@ We imagined that this set of panels would be shared through the FABLAB community
 
 ### Reflection&#x20;
 
-The week was a good way to put some things into perspective, aout my own process and project. even though, Vitti, Belen and I had some overlaps in terms of our interest, we approached the project in different ways which led to interesting discussions, especially during the ideation phase. Though the original idea was to traceability of materials, the micro challenge pushed us to simplify the narrative while focusing on the community of makers in Fablabs. As I try to navigate the new space of bio fabrication, I realise that the process of making the prototype helped me initiate conversations with people working with similar interests. The final result was maybe not the intent, but the process was much more fruitful for me, not just in terms of my research but also in terms of digital fabrication.&#x20;
+The week was a good way to put some things into perspective, about my own process and project. even though, Vitti, Belen and I had some overlaps in terms of our interest, we approached the project in different ways which led to interesting discussions, especially during the ideation phase. Though the original idea was to traceability of materials, the micro challenge pushed us to simplify the narrative while focusing on the community of makers in Fablabs. As I try to navigate the new space of bio fabrication, I realize that the process of making the prototype helped me initiate conversations with people working with similar interests. The final result was maybe not the intent, but the process was much more fruitful for me, not just in terms of my research but also in terms of digital fabrication.&#x20;
 
