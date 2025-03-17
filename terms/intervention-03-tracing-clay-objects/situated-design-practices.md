@@ -1,8 +1,8 @@
 ---
-icon: transporter
 description: >-
   Four diverse sessions, delivered by people working in entirely different
   contexts both in their practice and personal history.
+icon: transporter
 ---
 
 # Situated Design Practices

@@ -3,6 +3,7 @@ description: >-
   A week long workshop focused on collaboration, ideation and prototyping. The
   theme for this micro challenge was to work with 'intelligence', with the
   freedom of defining what it could mean.
+icon: screwdriver-wrench
 ---
 
 # Micro Challenge 02
