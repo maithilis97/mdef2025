@@ -25,6 +25,7 @@
       * [Intervention 01 : Harvesting Clay](terms/intervention-03-tracing-clay-objects/design-studio-02/intervention-01-harvesting-clay.md)
       * [Intervention 02 : Experimentation with clay](terms/intervention-03-tracing-clay-objects/design-studio-02/intervention-02-experimentation-with-clay.md)
       * [Intervention 03 : Tracing Clay Objects](terms/intervention-03-tracing-clay-objects/README.md)
+      * [Research Questions and Framework](terms/term-2/design-studio-02/research-questions-and-framework.md)
     * [Situated Design Practices](terms/intervention-03-tracing-clay-objects/situated-design-practices.md)
     * [Communicating Ideas](terms/intervention-03-tracing-clay-objects/communicating-ideas.md)
     * [Collective Intelligence](terms/intervention-03-tracing-clay-objects/collective-intelligence.md)
