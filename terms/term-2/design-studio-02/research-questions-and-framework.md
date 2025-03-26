@@ -16,6 +16,10 @@ Material Memory explores materials as vessels of history, culture, and human tou
 
 The projects aim to take to bottom up approach, by using the micro scale of materials to learn about the biggers scales of practice, community, culture and heritage. It aims to make the process of interacting with materials accessible, and in turn rebrand the way we envision the use of them.
 
+#### Methods
+
+In process.
+
 #### Sources&#x20;
 
 {% embed url="https://www.ideabooks.nl/9789493148789-the-material-kinship-reader" %}
