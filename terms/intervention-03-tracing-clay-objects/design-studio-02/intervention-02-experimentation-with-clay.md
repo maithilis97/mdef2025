@@ -28,7 +28,9 @@ To make the clay usable and to even out the drying process without cracking, 20%
 
 
 
+#### Reflection&#x20;
 
+{% file src="../../../.gitbook/assets/Second Intervention Reflection.m4a" %}
 
 
 
