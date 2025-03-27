@@ -29,6 +29,7 @@
       * [Alternative Present Exercise](terms/term-2/design-studio-02/alternative-present-exercise.md)
       * [Transition Design: Holon’s Practice](terms/term-2/design-studio-02/transition-design-holons-practice.md)
       * [Intervention 04 : Testing and Firing](terms/term-2/design-studio-02/intervention-04-testing-and-firing.md)
+      * [Pictorial and Peer Interpretation](terms/term-2/design-studio-02/pictorial-and-peer-interpretation.md)
     * [Situated Design Practices](terms/intervention-03-tracing-clay-objects/situated-design-practices.md)
     * [Communicating Ideas](terms/intervention-03-tracing-clay-objects/communicating-ideas.md)
     * [Collective Intelligence](terms/intervention-03-tracing-clay-objects/collective-intelligence.md)
